@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sssheina/Week_25_React/static/css/main.073c9b0a.css",
+    "main.js": "/sssheina/Week_25_React/static/js/main.68de7f6f.js",
+    "static/js/651.6cbaa7b9.chunk.js": "/sssheina/Week_25_React/static/js/651.6cbaa7b9.chunk.js",
+    "static/media/logo.svg": "/sssheina/Week_25_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sssheina/Week_25_React/index.html",
+    "main.073c9b0a.css.map": "/sssheina/Week_25_React/static/css/main.073c9b0a.css.map",
+    "main.68de7f6f.js.map": "/sssheina/Week_25_React/static/js/main.68de7f6f.js.map",
+    "651.6cbaa7b9.chunk.js.map": "/sssheina/Week_25_React/static/js/651.6cbaa7b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.68de7f6f.js"
+  ]
+}
